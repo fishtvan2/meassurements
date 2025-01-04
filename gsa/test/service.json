@@ -1,0 +1,34 @@
+{
+  "type": "serviceaccount",
+  "project_id": "pojectid",
+  "private_key_id": "keyid",
+  "private_key": "privatekey",
+  "client_email": "email",
+  "client_id": "clientid",
+  "auth_uri": "authuri",
+  "token_uri": "tokenuri",
+  "auth_provider_x509_cert_url": "authcerturl",
+  "client_x509_cert_url": "clientcerturl",
+  "universe_domain": "domain"
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
